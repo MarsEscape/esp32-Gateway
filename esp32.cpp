@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("helo linux git");
+	printf("new file");
 	return 0;
 }
