@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("helo linux git");
+	printf("new branch");
 	return 0;
 }
